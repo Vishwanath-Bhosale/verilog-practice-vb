@@ -1,0 +1,4 @@
+# Generated simulation files
+*.vvp
+*.vcd
+*.vcd.gz
