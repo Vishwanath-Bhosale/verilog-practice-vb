@@ -2,3 +2,6 @@
 *.vvp
 *.vcd
 *.vcd.gz
+mux16to1_sim
+mux16to1op
+counter.v
