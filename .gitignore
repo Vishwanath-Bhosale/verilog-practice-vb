@@ -5,3 +5,5 @@
 mux16to1_sim
 mux16to1op
 counter.v
+mux16to1op1
+mux16to1_tb.v
