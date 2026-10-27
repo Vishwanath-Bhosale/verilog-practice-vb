@@ -26,6 +26,5 @@ initial
         #5 s = 4'hE;
         #5 s = 4'hF;
         #5 $finish;
-    
-    end 
+    end
 endmodule

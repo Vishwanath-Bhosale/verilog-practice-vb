@@ -7,3 +7,6 @@ mux16to1op
 counter.v
 mux16to1op1
 mux16to1_tb.v
+muxtest16
+mux16to1u2to1op
+mux16to1_tb.v
